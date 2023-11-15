@@ -1,0 +1,10 @@
+{
+  "id": 44042063,
+  "created_at": "2023-11-15T10:40:54.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["densityratio"]
+}
